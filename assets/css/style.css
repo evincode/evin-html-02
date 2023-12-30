@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 70%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Poppins', serif;
+}
+
+/* common */
+
+a {
+    text-decoration: none;
+
+}
